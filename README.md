@@ -4,5 +4,5 @@
 
 #### OneUpdater: [Download](https://github.com/vitorgalvao/alfred-workflows/blob/master/OneUpdater/OneUpdater.alfredworkflow) | [Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) | 🍺️ [Vítor Galvão](https://github.com/vitorgalvao)
 
-This is as the name suggests an auto-update plug which allows you to let Alfred workflows update themselves without having to keep track of new updates for each. Using it has minimal set-up required. Clear instructions at the repo linked above.
+As the name suggests, this is OneUpdate to rule them all. An auto-update patch you can put into (almost) all of your Alfred workflows. With minimal set-up, it allows you to let each workflow update itself from source to the latest version automagically. Clear instruction on setup at the repo linked above.
 
