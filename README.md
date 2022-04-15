@@ -9,7 +9,8 @@
 | [Repo](https://github.com/jeeftor/EmojiTaco) 
 | 🍺️ [Jeeftor](https://github.com/jeeftor)
 
-### LinkClean: | [Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/LinkClean) 
+### LinkClean: 
+| [Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/LinkClean) 
 | 🍺️ [Vítor Galvão](https://github.com/vitorgalvao)
 
 ### Movie and TV Show Search: 
