@@ -6,6 +6,7 @@
 | 🍺️ [Jay Gillibrand](https://github.com/gillibrand)
 
 Changes the case of text selected, provided, or on the clipboard to UPPERCASE, lowercase, Title Case, CamelCase, kebab-case, or snake_case.
+
 ![Screenshot](https://github.com/gillibrand/alfred-change-case/blob/master/changecase.jpg)
 
 ---
@@ -14,7 +15,8 @@ Changes the case of text selected, provided, or on the clipboard to UPPERCASE, l
 | [Repo](https://github.com/jeeftor/EmojiTaco) 
 | 🍺️ [Jeeftor](https://github.com/jeeftor)
 
-Scrapes Unicode.org to pull down the latest set of EMOJI!!. 
+One-Time-Setup: Type `init emoji` | Wait for completion as itscrapes Unicode.org to pull down the latest set of EMOJI!!. 
+
 Use the **e** command to search for emoji.
 
 ![tac](https://github.com/jeeftor/EmojiTaco/blob/master/docs/taco.png)
