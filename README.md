@@ -1,8 +1,8 @@
 # Useful-Alfred-Workflows
 ## Combined list of the Alfred workflows that I regularly use
 
-### Change Case: 1.5.1
-| [Source](https://github.com/gillibrand/alfred-change-case) 
+### Change Case: v1.5.1
+| [Source Repo](https://github.com/gillibrand/alfred-change-case) 
 | 🍺️ [Jay Gillibrand](https://github.com/gillibrand)
 
 Changes the case of text selected, provided, or on the clipboard to UPPERCASE, lowercase, Title Case, CamelCase, kebab-case, or snake_case.
@@ -11,8 +11,8 @@ Changes the case of text selected, provided, or on the clipboard to UPPERCASE, l
 
 ---
 
-### Emoji Taco: 2.0.2 🌮
-| [Repo](https://github.com/jeeftor/EmojiTaco) 
+### Emoji Taco: v2.0.1 🌮
+| [Source Repo](https://github.com/jeeftor/EmojiTaco) 
 | 🍺️ [Jeeftor](https://github.com/jeeftor)
 
 One-Time-Setup: Type `init emoji` | Wait for completion as itscrapes Unicode.org to pull down the latest set of EMOJI!!. 
@@ -27,7 +27,32 @@ You can also use the `-` to exclude items from a search such as:
 
 ---
 
-### LinkClean: 
+### Github v1.7.1
+| [Source Repo](https://github.com/gharlan/alfred-github-workflow) 
+| 🍺️ [Gregor Harlan](https://github.com/gharlan)
+
+One-Time-Setup: Type (`gh > login`) to authenticate your account. 
+
+Search through GitHub (`gh`) and your GitHub Enterprise instance (`ghe`).
+
+![](https://github.com/gharlan/alfred-github-workflow/blob/master/screenshot.png)
+
+Prerequisites: Requires PHP, which is no longer pre-installed since macOS Montery.  
+You can install it via [Homebrew](https://brew.sh) (`brew install php`).
+
+---
+
+### ProcessKiller v1.2.1
+| [Source Repo](https://github.com/ngreenstein/alfred-process-killer) 
+| 🍺️ [Nathan Greenstein](https://github.com/ngreenstein)
+
+Easily find and kill misbehaving processes. 
+
+![screenshot: `kill it`](https://github.com/ngreenstein/alfred-process-killer/blob/master/screenshot1.png)
+
+---
+
+### LinkClean: v22.2
 | [Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/LinkClean) 
 | 🍺️ [Vítor Galvão](https://github.com/vitorgalvao)
 
@@ -39,7 +64,7 @@ Run `lc` and input a URL, or leave it blank to use your clipboard contents. Acti
 
 ---
 
-### Movie and TV Show Search: 
+### Movie and TV Show Search: v2.11.1
 | [Repo](https://github.com/tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow) 
 | 🍺️ [tmcknight](https://github.com/tmcknight)
 
@@ -50,7 +75,7 @@ Even throws direct links to Letterboxd, JustWatch, and a Trailer on YouTube if a
 
 ---
 
-### OneUpdater: 
+### OneUpdater: v22.1
 | [Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) 
 | 🍺️ [Vítor Galvão](https://github.com/vitorgalvao)
 
@@ -77,7 +102,7 @@ readonly frequency_check='4'
 ```
 ---
 
-### RightClick: 
+### RightClick: v21.1
 | [Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/RightClick) 
 | 🍺️ [Vítor Galvão](https://github.com/vitorgalvao)
 
@@ -85,9 +110,10 @@ Press a shortcut to simulate a right click in the Finder and use the context wit
 
 ---
 
-### YouTube Video Download: 
+### YouTube Video Download: v1
 | [Repo](https://github.com/nickytonline/alfred-workflows/tree/master/workflows) 
 | 🍺️ [Nick Taylor](https://github.com/nickytonline)
 
+Download YouTube videos with just a link.
 
- 
+Prerequisites: `youtube-dl` via You can install it via [Homebrew](https://brew.sh) (`brew install youtube-dl`).
