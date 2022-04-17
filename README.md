@@ -11,6 +11,13 @@ Changes the case of text selected, provided, or on the clipboard to UPPERCASE, l
 
 ---
 
+### CleanApp: v1.0
+| 🍺️ Myself
+
+Sends application to AppCleaner `freeware` for tidy removal.
+
+---
+
 ### Emoji Taco: v2.0.1 🌮
 | [Source Repo](https://github.com/jeeftor/EmojiTaco) 
 | 🍺️ [Jeeftor](https://github.com/jeeftor)
@@ -72,6 +79,13 @@ Search for a movie or tv show and get a few ratings from IMDb, Rotten Tomatoes, 
 Even throws direct links to Letterboxd, JustWatch, and a Trailer on YouTube if available.
 
 ![Sample](https://raw.githubusercontent.com/tmcknight/Movies-Alfred-Workflow/master/example.gif)
+
+---
+
+### Open in Preview: v1.0
+| 🍺️ Myself
+
+Through a customisable shortcut key, sends selected file item in Finder to open in Preview (rather than the default application set by the OS).
 
 ---
 
