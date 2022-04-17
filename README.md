@@ -42,7 +42,7 @@ You can install it via [Homebrew](https://brew.sh) (`brew install php`).
 
 ---
 
-### ProcessKiller v1.2.1
+### Kill Process v1.2.1
 | [Source Repo](https://github.com/ngreenstein/alfred-process-killer) 
 | 🍺️ [Nathan Greenstein](https://github.com/ngreenstein)
 
@@ -64,7 +64,7 @@ Run `lc` and input a URL, or leave it blank to use your clipboard contents. Acti
 
 ---
 
-### Movie and TV Show Search: v2.11.1
+### Movie and TV Show Search: v2.12
 | [Repo](https://github.com/tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow) 
 | 🍺️ [tmcknight](https://github.com/tmcknight)
 
