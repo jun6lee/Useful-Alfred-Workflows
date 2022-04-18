@@ -11,6 +11,7 @@ Allows you to navigate your bookmarks `chb` / history `chh` /downloads `chd` / a
 See the source repo for full instructions. And grab from there if you use Chrome.
 
 ![Screenshot](https://github.com/jopemachine/alfred-chrome-workflow/blob/master/imgs/chb.png)
+
 Prerequisites: `Node JS` which you can install via [Homebrew](https://brew.sh) (`brew install node`).
 
 ---
