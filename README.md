@@ -2,7 +2,7 @@
 ## Combined list of the Alfred workflows that I regularly use
 
 ### Brave Browser: v0.3.5
-| [Source Repo](hhttps://github.com/jopemachine/alfred-chrome-workflow#readme) 
+| [Source Repo](https://github.com/jopemachine/alfred-chrome-workflow#readme) 
 | 🍺️ [jopemachine](https://github.com/jopemachine)
 | Tweaked for Brave Browser by myself.
 
