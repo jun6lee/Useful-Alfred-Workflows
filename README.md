@@ -27,7 +27,7 @@ Changes the case of text selected, provided, or on the clipboard to UPPERCASE, l
 ### CleanApp: v1.0
 | 🍺️ Myself
 
-Sends application to AppCleaner `freeware` for tidy removal.
+Sends application to the freeware AppCleaner for tidy removal. The app can be installed as a cask via `brew install --cask appcleaner`
 
 ---
 
@@ -73,7 +73,7 @@ Easily find and kill misbehaving processes.
 ---
 
 ### LinkClean: v22.2
-| [Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/LinkClean) 
+| [Source Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/LinkClean) 
 | 🍺️ [Vítor Galvão](https://github.com/vitorgalvao)
 
 Clean clutter from URLs such as all sorts of [`utm_` variants](http://www.bytefive.com/blogs/understanding-utm_source-utm_medium-and-utm_campaign) and subdomains like `m.` for mobile sites.
@@ -85,7 +85,7 @@ Run `lc` and input a URL, or leave it blank to use your clipboard contents. Acti
 ---
 
 ### Movie and TV Show Search: v2.12
-| [Repo](https://github.com/tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow) 
+| [Source Repo](https://github.com/tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow) 
 | 🍺️ [tmcknight](https://github.com/tmcknight)
 
 Search for a movie or tv show and get a few ratings from IMDb, Rotten Tomatoes, Metacritic.
@@ -103,7 +103,7 @@ Through a customisable shortcut key, sends selected file item in Finder to open 
 ---
 
 ### OneUpdater: v22.1
-| [Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) 
+| [Source Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) 
 | 🍺️ [Vítor Galvão](https://github.com/vitorgalvao)
 
 As the name suggests, this is OneUpdate to rule them all. An auto-update patch you can put into (almost) all of your Alfred workflows. With minimal set-up, it allows you to let each workflow update itself from source to the latest version automagically. Clear instruction on setup at the repo linked above.
@@ -130,7 +130,7 @@ readonly frequency_check='4'
 ---
 
 ### RightClick: v21.1
-| [Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/RightClick) 
+| [Source Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/RightClick) 
 | 🍺️ [Vítor Galvão](https://github.com/vitorgalvao)
 
 Press a shortcut to simulate a right click in the Finder and use the context without leaving the keyboard.
@@ -138,7 +138,7 @@ Press a shortcut to simulate a right click in the Finder and use the context wit
 ---
 
 ### YouTube Video Download: v1
-| [Repo](https://github.com/nickytonline/alfred-workflows/tree/master/workflows) 
+| [Source Repo](https://github.com/nickytonline/alfred-workflows/tree/master/workflows) 
 | 🍺️ [Nick Taylor](https://github.com/nickytonline)
 
 Download YouTube videos with just a link.
