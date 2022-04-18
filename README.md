@@ -2,7 +2,8 @@
 ## Combined list of the Alfred workflows that I regularly use
 
 ### Brave Browser: v0.3.5
-| [Source Repo](https://github.com/jopemachine/alfred-chrome-workflow#readme) 
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Brave-Browser.alfredworkflow)
+| [Source Repo](https://github.com/jopemachine/alfred-chrome-workflow) 
 | 🍺️ [jopemachine](https://github.com/jopemachine)
 | Tweaked for Brave Browser by myself.
 
@@ -15,6 +16,7 @@ Prerequisites: `Node JS` which you can install via [Homebrew](https://brew.sh) (
 ---
 
 ### Change Case: v1.5.1
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Change.Case.alfredworkflow)
 | [Source Repo](https://github.com/gillibrand/alfred-change-case) 
 | 🍺️ [Jay Gillibrand](https://github.com/gillibrand)
 
@@ -25,6 +27,7 @@ Changes the case of text selected, provided, or on the clipboard to UPPERCASE, l
 ---
 
 ### CleanApp: v1.0
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/CleanApp.alfredworkflow)
 | 🍺️ Myself
 
 Sends application to the freeware AppCleaner for tidy removal. The app can be installed as a cask via `brew install --cask appcleaner`
@@ -32,6 +35,7 @@ Sends application to the freeware AppCleaner for tidy removal. The app can be in
 ---
 
 ### Emoji Taco: v2.0.1 🌮
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Emoji_Taco-2.0.1.alfredworkflow)
 | [Source Repo](https://github.com/jeeftor/EmojiTaco) 
 | 🍺️ [Jeeftor](https://github.com/jeeftor)
 
@@ -48,6 +52,7 @@ You can also use the `-` to exclude items from a search such as:
 ---
 
 ### Github v1.7.1
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/github.alfredworkflow)
 | [Source Repo](https://github.com/gharlan/alfred-github-workflow) 
 | 🍺️ [Gregor Harlan](https://github.com/gharlan)
 
@@ -63,6 +68,7 @@ You can install it via [Homebrew](https://brew.sh) (`brew install php`).
 ---
 
 ### Kill Process v1.2.1
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Kill%20Process.alfredworkflow)
 | [Source Repo](https://github.com/ngreenstein/alfred-process-killer) 
 | 🍺️ [Nathan Greenstein](https://github.com/ngreenstein)
 
@@ -73,6 +79,7 @@ Easily find and kill misbehaving processes.
 ---
 
 ### LinkClean: v22.2
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/LinkClean.alfredworkflow)
 | [Source Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/LinkClean) 
 | 🍺️ [Vítor Galvão](https://github.com/vitorgalvao)
 
@@ -85,6 +92,7 @@ Run `lc` and input a URL, or leave it blank to use your clipboard contents. Acti
 ---
 
 ### Movie and TV Show Search: v2.12
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Movie.and.TV.Show.Search.alfredworkflow)
 | [Source Repo](https://github.com/tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow) 
 | 🍺️ [tmcknight](https://github.com/tmcknight)
 
@@ -93,16 +101,11 @@ Even throws direct links to Letterboxd, JustWatch, and a Trailer on YouTube if a
 
 ![Sample](https://raw.githubusercontent.com/tmcknight/Movies-Alfred-Workflow/master/example.gif)
 
----
-
-### Open in Preview: v1.0
-| 🍺️ Myself
-
-Through a customisable shortcut key, sends selected file item in Finder to open in Preview (rather than the default application set by the OS).
 
 ---
 
 ### OneUpdater: v22.1
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/OneUpdater.alfredworkflow)
 | [Source Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) 
 | 🍺️ [Vítor Galvão](https://github.com/vitorgalvao)
 
@@ -127,9 +130,19 @@ readonly workflow_url='https://raw.githubusercontent.com/vitorgalvao/alfred-work
 readonly download_type='direct'
 readonly frequency_check='4'
 ```
+
+---
+
+### Open in Preview: v1.0
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Open%20in...%20Preview.alfredworkflow)
+| 🍺️ Myself
+
+Through a customisable shortcut key, sends selected file item in Finder to open in Preview (rather than the default application set by the OS).
+
 ---
 
 ### RightClick: v21.1
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/RightClick.alfredworkflow)
 | [Source Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/RightClick) 
 | 🍺️ [Vítor Galvão](https://github.com/vitorgalvao)
 
@@ -138,6 +151,7 @@ Press a shortcut to simulate a right click in the Finder and use the context wit
 ---
 
 ### YouTube Video Download: v1
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/youtube-video-download.alfredworkflow)
 | [Source Repo](https://github.com/nickytonline/alfred-workflows/tree/master/workflows) 
 | 🍺️ [Nick Taylor](https://github.com/nickytonline)
 
