@@ -1,6 +1,19 @@
 # Useful-Alfred-Workflows
 ## Combined list of the Alfred workflows that I regularly use
 
+### Brave Browser: v0.3.5
+| [Source Repo](hhttps://github.com/jopemachine/alfred-chrome-workflow#readme) 
+| 🍺️ [jopemachine](https://github.com/jopemachine)
+| Tweaked for Brave Browser by myself.
+
+Allows you to navigate your bookmarks `chb` / history `chh` /downloads `chd` / and much more.
+See the source repo for full instructions. And grab from there if you use Chrome.
+
+![Screenshot](https://github.com/jopemachine/alfred-chrome-workflow/blob/master/imgs/chb.png)
+Prerequisites: `Node JS` which you can install via [Homebrew](https://brew.sh) (`brew install node`).
+
+---
+
 ### Change Case: v1.5.1
 | [Source Repo](https://github.com/gillibrand/alfred-change-case) 
 | 🍺️ [Jay Gillibrand](https://github.com/gillibrand)
@@ -130,4 +143,4 @@ Press a shortcut to simulate a right click in the Finder and use the context wit
 
 Download YouTube videos with just a link.
 
-Prerequisites: `youtube-dl` via You can install it via [Homebrew](https://brew.sh) (`brew install youtube-dl`).
+Prerequisites: `youtube-dl` which you can install via [Homebrew](https://brew.sh) (`brew install youtube-dl`).
