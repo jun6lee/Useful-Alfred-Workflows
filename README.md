@@ -1,20 +1,9 @@
 # Useful-Alfred-Workflows
-## Combined list of the Alfred workflows that I regularly use
 
-### Brave Browser: v0.3.5
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Brave-Browser.alfredworkflow)
-| [Source Repo](https://github.com/jopemachine/alfred-chrome-workflow) 
-| 🍺️ [jopemachine](https://github.com/jopemachine)
-| Tweaked for Brave Browser by myself.
 
-Allows you to navigate your bookmarks `chb` / history `chh` /downloads `chd` / and much more.
-See the source repo for full instructions. And grab from there if you use Chrome.
+## Combined list of the Alfred workflows that I regularly use   
 
-![Screenshot](https://github.com/jopemachine/alfred-chrome-workflow/blob/master/imgs/chb.png)
 
-Prerequisites: `Node JS` which you can install via [Homebrew](https://brew.sh) (`brew install node`).
-
----
 
 ### Change Case: v1.5.1
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Change.Case.alfredworkflow)
@@ -65,6 +54,15 @@ Search through GitHub (`gh`) and your GitHub Enterprise instance (`ghe`).
 
 Prerequisites: Requires PHP, which is no longer pre-installed since macOS Montery.  
 You can install it via [Homebrew](https://brew.sh) (`brew install php`).
+
+--- 
+
+### Google-Drive: v2022.10   
+| [Download Workflow](https://github.com/alfredapp/google-drive-workflow/releases/latest/download/Google.Drive.alfredworkflow)
+| [Source Repo](https://github.com/alfredapp/google-drive-workflow) 
+| 🍺️ [Alfred](https://github.com/alfredapp)
+
+Navigate your Google Drive.
 
 ---
 
@@ -142,12 +140,30 @@ Through a customisable shortcut key, sends selected file item in Finder to open 
 
 ---
 
+### Reminders: v75  
+| [Download Workflow](https://github.com/surrealroad/alfred-reminders/blob/master/Reminders.alfredworkflow)
+| [Source Repo](https://github.com/surrealroad/alfred-reminders) 
+| 🍺️ [surrealroad](https://github.com/surrealroad/)
+
+Create new reminders which get added to your default reminder list in Apple Reminders. To use, just type `r <some text>` into Alfred. `r help` for options. Many other options for alternate lists, current tab, etc.
+
+---
+
 ### RightClick: v21.1
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/RightClick.alfredworkflow)
 | [Source Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/RightClick) 
 | 🍺️ [Vítor Galvão](https://github.com/vitorgalvao)
 
 Press a shortcut to simulate a right click in the Finder and use the context without leaving the keyboard.
+
+---
+
+### Word-Search: v2.0.0
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Word.Search.alfredworkflow)
+| [Source Repo](https://github.com/jun6lee/Alfred-WordSearch) 
+| 🍺️ [Isaac Pohl-Zaretsky](https://github.com/isaacpz) | Ported for Python3 Compatability by Myself
+
+Look up synonyms with `syn`, antonyms with `ant`, rhyming words with `rhyme`.
 
 ---
 
@@ -158,4 +174,24 @@ Press a shortcut to simulate a right click in the Finder and use the context wit
 
 Download YouTube videos with just a link.
 
-Prerequisites: `youtube-dl` which you can install via [Homebrew](https://brew.sh) (`brew install youtube-dl`).
+Prerequisites: `youtube-dl` which you can install via [Homebrew](https://brew.sh) (`brew install youtube-dl`)
+
+---
+
+
+## WIP  
+
+### Brave Browser: v0.3.5 
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Brave-Browser.alfredworkflow)
+| [Source Repo](https://github.com/jopemachine/alfred-chrome-workflow) 
+| 🍺️ [jopemachine](https://github.com/jopemachine)
+| Tweaked for Brave Browser by myself.
+
+Allows you to navigate your bookmarks `chb` / history `chh` /downloads `chd` / and much more.
+See the source repo for full instructions. And grab from there if you use Chrome.
+
+![Screenshot](https://github.com/jopemachine/alfred-chrome-workflow/blob/master/imgs/chb.png)
+
+Prerequisites: `Node JS` which you can install via [Homebrew](https://brew.sh) (`brew install node`).
+
+---
