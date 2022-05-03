@@ -4,6 +4,34 @@
 ## Combined list of the Alfred workflows that I regularly use   
 
 
+### Agenda - Reminders and Calendar Events: v1.0.1
+| [Download Workflow](https://github.com/rknightuk/alfred-workflows/blob/main/workflows/agenda/agenda.alfredworkflow)
+| [Source Repo](https://github.com/rknightuk/alfred-workflows/tree/main/workflows/agenda) 
+| 🍺️ [Robb Knight](https://github.com/rknightuk)
+
+Deal with Calendars and Reminders all within Alfred.
+
+![Screenshot](https://github.com/rknightuk/alfred-workflows/blob/main/workflows/agenda/src/screenshot.png)
+
+---
+
+### Bookmarks and History (Chromium&Firefox): v2.5.0
+| [Download Workflow](https://github.com/Acidham/chromium-hist-bookmarks/blob/master/Chromium%26Firefox%20Bookmarks%20and%20History.alfredworkflow)
+| [Source Repo](https://github.com/Acidham/chromium-hist-bookmarks) 
+| 🍺️ [Acidham](https://github.com/Acidham)
+
+Search your browser bookmarks and history.
+
+---
+
+### Browser Tabs: v1.0.5
+| [Download Workflow](https://github.com/epilande/alfred-browser-tabs/releases/download/v1.0.5/Browser-Tabs.alfredworkflow)
+| [Source Repo](https://github.com/epilande/alfred-browser-tabs) 
+| 🍺️ [Emmanuel Pilande](https://github.com/epilande)
+
+Fetch your browser tabs from and filter based on query. Supports: Brave, Chrome, Edge, Safari.
+
+---
 
 ### Change Case: v1.5.1
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Change.Case.alfredworkflow)
@@ -158,6 +186,39 @@ Press a shortcut to simulate a right click in the Finder and use the context wit
 
 ---
 
+### Say Command! v0.6
+| [Download Workflow](https://github.com/BaksiLi/AlfredWorkflows/blob/master/workflows/say_command.alfredworkflow)
+| [Source Repo](https://github.com/BaksiLi/AlfredWorkflows/tree/master/Index/say-workflow) 
+| 🍺️ [Baksi Li](https://github.com/BaksiLi)
+
+Make your computer say `whatever` out loud!
+
+---
+
+### Terminal-Finder v1
+| [Download Workflow](https://github.com/LeEnno/alfred-terminalfinder/blob/master/TerminalFinder.alfredworkflow)
+| [Source Repo](https://github.com/LeEnno/alfred-terminalfinder) 
+| 🍺️ [Enrico Herrmann](https://github.com/LeEnno)
+
+Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2) and vice versa.
+
+![Screenshot](https://camo.githubusercontent.com/14159afc328e47d5ccd8064eed087ebb59fff699337c0fd8fd98744d9b2fe8fc/68747470733a2f2f7261772e6769746875622e636f6d2f4c65456e6e6f2f616c667265642d7465726d696e616c66696e6465722f6d61737465722f73637265656e73686f745f66742e706e67)
+
+---
+
+### Twitter Archive Search: v1.0.1
+| [Download Workflow](https://github.com/rknightuk/alfred-workflows/blob/main/workflows/twitter-archive-search/twitter-archive-search.alfredworkflow)
+| [Source Repo](https://github.com/rknightuk/alfred-workflows/tree/main/workflows/twitter-archive-search) 
+| 🍺️ [Robb Knight](https://github.com/rknightuk)
+
+- Request your Twitter here: https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive
+- In the workflow variables, set the path to your `tweet.js` file (this is in the `data` of the download). 
+Example, `/Users/me/Dropbox/Archive/data/tweet.js`
+
+![Twitter Archive Search](https://github.com/rknightuk/alfred-workflows/blob/main/workflows/twitter-archive-search/src/screenshot.png)
+
+---
+
 ### Word-Search: v2.0.0
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Word.Search.alfredworkflow)
 | [Source Repo](https://github.com/jun6lee/Alfred-WordSearch) 
@@ -175,23 +236,5 @@ Look up synonyms with `syn`, antonyms with `ant`, rhyming words with `rhyme`.
 Download YouTube videos with just a link.
 
 Prerequisites: `youtube-dl` which you can install via [Homebrew](https://brew.sh) (`brew install youtube-dl`)
-
----
-
-
-## WIP  
-
-### Brave Browser: v0.3.5 
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Brave-Browser.alfredworkflow)
-| [Source Repo](https://github.com/jopemachine/alfred-chrome-workflow) 
-| 🍺️ [jopemachine](https://github.com/jopemachine)
-| Tweaked for Brave Browser by myself.
-
-Allows you to navigate your bookmarks `chb` / history `chh` /downloads `chd` / and much more.
-See the source repo for full instructions. And grab from there if you use Chrome.
-
-![Screenshot](https://github.com/jopemachine/alfred-chrome-workflow/blob/master/imgs/chb.png)
-
-Prerequisites: `Node JS` which you can install via [Homebrew](https://brew.sh) (`brew install node`).
 
 ---
