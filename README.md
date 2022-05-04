@@ -219,7 +219,7 @@ Example, `/Users/me/Dropbox/Archive/data/tweet.js`
 
 ---
 
-### Word-Search: v2.0.0
+### Word-Search: v2.0.1
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Word.Search.alfredworkflow)
 | [Source Repo](https://github.com/jun6lee/Alfred-WordSearch) 
 | 🍺️ [Isaac Pohl-Zaretsky](https://github.com/isaacpz) | Ported for Python3 Compatability by Myself
