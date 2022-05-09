@@ -15,7 +15,7 @@ Deal with Calendars and Reminders all within Alfred.
 
 ---
 
-### Bookmarks and History (Chromium&Firefox): v2.5.0
+### Bookmarks and History (Chromium&Firefox): v2.5.1
 | [Download Workflow](https://github.com/Acidham/chromium-hist-bookmarks/blob/master/Chromium%26Firefox%20Bookmarks%20and%20History.alfredworkflow)
 | [Source Repo](https://github.com/Acidham/chromium-hist-bookmarks) 
 | 🍺️ [Acidham](https://github.com/Acidham)
@@ -85,7 +85,7 @@ You can install it via [Homebrew](https://brew.sh) (`brew install php`).
 
 --- 
 
-### Google-Drive: v2022.10   
+### Google-Drive: v2022.11   
 | [Download Workflow](https://github.com/alfredapp/google-drive-workflow/releases/latest/download/Google.Drive.alfredworkflow)
 | [Source Repo](https://github.com/alfredapp/google-drive-workflow) 
 | 🍺️ [Alfred](https://github.com/alfredapp)
