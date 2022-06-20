@@ -85,7 +85,7 @@ You can install it via [Homebrew](https://brew.sh) (`brew install php`).
 
 --- 
 
-### Google-Drive: v2022.11   
+### Google-Drive: v2022.12   
 | [Download Workflow](https://github.com/alfredapp/google-drive-workflow/releases/latest/download/Google.Drive.alfredworkflow)
 | [Source Repo](https://github.com/alfredapp/google-drive-workflow) 
 | 🍺️ [Alfred](https://github.com/alfredapp)
@@ -118,7 +118,7 @@ Run `lc` and input a URL, or leave it blank to use your clipboard contents. Acti
 
 ---
 
-### Movie and TV Show Search: v2.12.1
+### Movie and TV Show Search: v2.12.2
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Movie.and.TV.Show.Search.alfredworkflow)
 | [Source Repo](https://github.com/tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow) 
 | 🍺️ [tmcknight](https://github.com/tmcknight)
@@ -167,6 +167,14 @@ readonly frequency_check='4'
 Through a customisable shortcut key, sends selected file item in Finder to open in Preview (rather than the default application set by the OS).
 
 ---
+
+### Package Managers v5.0.1
+| [Download Workflow](https://github.com/willfarrell/alfred-pkgman-workflow/blob/master/Package%20Managers.alfredworkflow)
+| [Source Repo](https://github.com/willfarrell/alfred-pkgman-workflow) 
+| 🍺️ [Will Farrell](https://github.com/willfarrell/)
+
+Browse Package Mangers such as Cocoa, HomeBrew, NPM, Python, etc for available packages.
+
 
 ### Reminders: v75  
 | [Download Workflow](https://github.com/surrealroad/alfred-reminders/blob/master/Reminders.alfredworkflow)
