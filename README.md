@@ -5,7 +5,7 @@
 
 
 ### Agenda - Reminders and Calendar Events: v1.0.1
-| [Download Workflow](https://github.com/rknightuk/alfred-workflows/blob/main/workflows/agenda/agenda.alfredworkflow)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/agenda.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/rknightuk/alfred-workflows/tree/main/workflows/agenda) 
 | 🍺️ [Robb Knight](https://github.com/rknightuk)
 
@@ -16,7 +16,7 @@ Deal with Calendars and Reminders all within Alfred.
 ---
 
 ### Bookmarks and History (Chromium&Firefox): v2.5.1
-| [Download Workflow](https://github.com/Acidham/chromium-hist-bookmarks/blob/master/Chromium%26Firefox%20Bookmarks%20and%20History.alfredworkflow)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Chromium&Firefox%20Bookmarks%20and%20History.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/Acidham/chromium-hist-bookmarks) 
 | 🍺️ [Acidham](https://github.com/Acidham)
 
@@ -25,7 +25,7 @@ Search your browser bookmarks and history.
 ---
 
 ### Browser Tabs: v1.0.5
-| [Download Workflow](https://github.com/epilande/alfred-browser-tabs/releases/download/v1.0.5/Browser-Tabs.alfredworkflow)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Browser-Tabs.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/epilande/alfred-browser-tabs) 
 | 🍺️ [Emmanuel Pilande](https://github.com/epilande)
 
@@ -34,7 +34,7 @@ Fetch your browser tabs from and filter based on query. Supports: Brave, Chrome,
 ---
 
 ### Change Case: v1.5.1
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Change.Case.alfredworkflow)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Change.Case.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/gillibrand/alfred-change-case) 
 | 🍺️ [Jay Gillibrand](https://github.com/gillibrand)
 
@@ -45,7 +45,7 @@ Changes the case of text selected, provided, or on the clipboard to UPPERCASE, l
 ---
 
 ### CleanApp: v1.0
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/CleanApp.alfredworkflow)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/CleanApp.alfredworkflow?raw=true)
 | 🍺️ Myself
 
 Sends application to the freeware AppCleaner for tidy removal. The app can be installed as a cask via `brew install --cask appcleaner`
@@ -53,7 +53,7 @@ Sends application to the freeware AppCleaner for tidy removal. The app can be in
 ---
 
 ### Emoji Taco: v2.0.1 🌮
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Emoji_Taco-2.0.1.alfredworkflow)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Emoji_Taco-2.0.1.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/jeeftor/EmojiTaco) 
 | 🍺️ [Jeeftor](https://github.com/jeeftor)
 
@@ -70,7 +70,7 @@ You can also use the `-` to exclude items from a search such as:
 ---
 
 ### Github v1.7.1
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/github.alfredworkflow)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/github.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/gharlan/alfred-github-workflow) 
 | 🍺️ [Gregor Harlan](https://github.com/gharlan)
 
@@ -86,7 +86,7 @@ You can install it via [Homebrew](https://brew.sh) (`brew install php`).
 --- 
 
 ### Google-Drive: v2022.12   
-| [Download Workflow](https://github.com/alfredapp/google-drive-workflow/releases/latest/download/Google.Drive.alfredworkflow)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Google%20Drive.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/alfredapp/google-drive-workflow) 
 | 🍺️ [Alfred](https://github.com/alfredapp)
 
@@ -95,7 +95,7 @@ Navigate your Google Drive.
 ---
 
 ### Kill Process v1.2.1
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Kill%20Process.alfredworkflow)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Kill%20Process.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/ngreenstein/alfred-process-killer) 
 | 🍺️ [Nathan Greenstein](https://github.com/ngreenstein)
 
@@ -106,7 +106,7 @@ Easily find and kill misbehaving processes.
 ---
 
 ### LinkClean: v22.2
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/LinkClean.alfredworkflow)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/LinkClean.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/LinkClean) 
 | 🍺️ [Vítor Galvão](https://github.com/vitorgalvao)
 
@@ -119,7 +119,7 @@ Run `lc` and input a URL, or leave it blank to use your clipboard contents. Acti
 ---
 
 ### Movie and TV Show Search: v2.12.2
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Movie.and.TV.Show.Search.alfredworkflow)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Movie.and.TV.Show.Search.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow) 
 | 🍺️ [tmcknight](https://github.com/tmcknight)
 
@@ -132,7 +132,7 @@ Even throws direct links to Letterboxd, JustWatch, and a Trailer on YouTube if a
 ---
 
 ### OneUpdater: v22.1
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/OneUpdater.alfredworkflow)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/OneUpdater.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) 
 | 🍺️ [Vítor Galvão](https://github.com/vitorgalvao)
 
@@ -161,7 +161,7 @@ readonly frequency_check='4'
 ---
 
 ### Open in Preview: v1.0
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Open%20in...%20Preview.alfredworkflow)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Open%20in...%20Preview.alfredworkflow?raw=true)
 | 🍺️ Myself
 
 Through a customisable shortcut key, sends selected file item in Finder to open in Preview (rather than the default application set by the OS).
@@ -169,7 +169,7 @@ Through a customisable shortcut key, sends selected file item in Finder to open 
 ---
 
 ### Package Managers v5.0.1
-| [Download Workflow](https://github.com/willfarrell/alfred-pkgman-workflow/blob/master/Package%20Managers.alfredworkflow)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Package.Managers.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/willfarrell/alfred-pkgman-workflow) 
 | 🍺️ [Will Farrell](https://github.com/willfarrell/)
 
@@ -177,7 +177,7 @@ Browse Package Mangers such as Cocoa, HomeBrew, NPM, Python, etc for available p
 
 
 ### Reminders: v75  
-| [Download Workflow](https://github.com/surrealroad/alfred-reminders/blob/master/Reminders.alfredworkflow)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Reminders%20for%20Alfred.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/surrealroad/alfred-reminders) 
 | 🍺️ [surrealroad](https://github.com/surrealroad/)
 
@@ -186,7 +186,7 @@ Create new reminders which get added to your default reminder list in Apple Remi
 ---
 
 ### RightClick: v21.1
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/RightClick.alfredworkflow)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/RightClick.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/RightClick) 
 | 🍺️ [Vítor Galvão](https://github.com/vitorgalvao)
 
@@ -195,7 +195,7 @@ Press a shortcut to simulate a right click in the Finder and use the context wit
 ---
 
 ### Say Command! v0.6
-| [Download Workflow](https://github.com/BaksiLi/AlfredWorkflows/blob/master/workflows/say_command.alfredworkflow)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/say_command.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/BaksiLi/AlfredWorkflows/tree/master/Index/say-workflow) 
 | 🍺️ [Baksi Li](https://github.com/BaksiLi)
 
@@ -203,8 +203,26 @@ Make your computer say `whatever` out loud!
 
 ---
 
+### Search Notes v3.5.2
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Search.Notes.alfredworkflow?raw=true)
+| [Source Repo](https://github.com/sballin/alfred-search-notes-app) 
+| 🍺️ [Sean Ballinger](https://github.com/sballin)
+
+Search/create your iCloud based iOS/MacOS Notes with:
+`n <some text>` for titles, `nb <some text>` for titles and/or bodies, `nf <some text>` for folders.
+
+#### Result actions:
+```
+`enter` to open the note/folder or create a new note if none was found
+`shift+enter` to search for your Alfred query using the Notes in-app search
+`cmd+enter` to copy the note body to the clipboard
+`alt+enter` to copy a link to the note to the clipboard
+```
+
+---
+
 ### Terminal-Finder v1
-| [Download Workflow](https://github.com/LeEnno/alfred-terminalfinder/blob/master/TerminalFinder.alfredworkflow)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/TerminalFinder.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/LeEnno/alfred-terminalfinder) 
 | 🍺️ [Enrico Herrmann](https://github.com/LeEnno)
 
@@ -215,7 +233,7 @@ Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2) a
 ---
 
 ### Twitter Archive Search: v1.0.1
-| [Download Workflow](https://github.com/rknightuk/alfred-workflows/blob/main/workflows/twitter-archive-search/twitter-archive-search.alfredworkflow)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/twitter-archive-search.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/rknightuk/alfred-workflows/tree/main/workflows/twitter-archive-search) 
 | 🍺️ [Robb Knight](https://github.com/rknightuk)
 
