@@ -15,10 +15,10 @@ Deal with Calendars and Reminders all within Alfred.
 
 ---
 
-### Bookmarks and History (Chromium&Firefox): v2.5.1
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Chromium&Firefox%20Bookmarks%20and%20History.alfredworkflow?raw=true)
-| [Source Repo](https://github.com/Acidham/chromium-hist-bookmarks) 
-| 🍺️ [Acidham](https://github.com/Acidham)
+### Alfred Chromium Workflow: v0.2.7
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/alfred-chromium-workflow.alfredworkflow?raw=true)
+| [Source Repo](https://github.com/jopemachine/alfred-chromium-workflow) 
+| 🍺️ [Gyubong](https://github.com/jopenmchine)
 
 Search your browser bookmarks and history.
 
@@ -30,6 +30,15 @@ Search your browser bookmarks and history.
 | 🍺️ [Emmanuel Pilande](https://github.com/epilande)
 
 Fetch your browser tabs from and filter based on query. Supports: Brave, Chrome, Edge, Safari.
+
+---
+
+### Calculate Anything: v3.5.0
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Calculate.Anything.alfredworkflow?raw=true)
+| [Source Repo](https://github.com/biati-digital/alfred-calculate-anything) 
+| 🍺️ [biati digital](https://github.com/biati-digital)
+
+![Sample](https://camo.githubusercontent.com/4a8ddd6eb44304760d8b8ced635d65523120b0752b125af6f3707786efb77486/68747470733a2f2f692e6962622e636f2f4c5a6e5163434c2f63616c63756c6174652d616e797468696e672d67682e6a7067)
 
 ---
 
