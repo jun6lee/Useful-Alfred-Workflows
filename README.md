@@ -94,7 +94,7 @@ You can install it via [Homebrew](https://brew.sh) (`brew install php`).
 
 --- 
 
-### Google-Drive: v2022.12   
+### Google-Drive: v2022.18   
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Google%20Drive.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/alfredapp/google-drive-workflow) 
 | 🍺️ [Alfred](https://github.com/alfredapp)
@@ -177,13 +177,14 @@ Through a customisable shortcut key, sends selected file item in Finder to open 
 
 ---
 
-### Package Managers v5.0.1
+### Package Managers v6.0.0
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Package.Managers.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/willfarrell/alfred-pkgman-workflow) 
 | 🍺️ [Will Farrell](https://github.com/willfarrell/)
 
 Browse Package Mangers such as Cocoa, HomeBrew, NPM, Python, etc for available packages.
 
+---
 
 ### Reminders: v75  
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Reminders%20for%20Alfred.alfredworkflow?raw=true)
