@@ -78,7 +78,7 @@ You can also use the `-` to exclude items from a search such as:
 
 ---
 
-### Github v1.7.1
+### Github v1.8.1
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/github.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/gharlan/alfred-github-workflow) 
 | 🍺️ [Gregor Harlan](https://github.com/gharlan)
@@ -94,7 +94,7 @@ You can install it via [Homebrew](https://brew.sh) (`brew install php`).
 
 --- 
 
-### Google-Drive: v2022.18   
+### Google-Drive: v2022.22   
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Google%20Drive.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/alfredapp/google-drive-workflow) 
 | 🍺️ [Alfred](https://github.com/alfredapp)
@@ -127,7 +127,7 @@ Run `lc` and input a URL, or leave it blank to use your clipboard contents. Acti
 
 ---
 
-### Movie and TV Show Search: v2.12.2
+### Movie and TV Show Search: v2.13.0
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Movie.and.TV.Show.Search.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow) 
 | 🍺️ [tmcknight](https://github.com/tmcknight)
@@ -264,13 +264,3 @@ Look up synonyms with `syn`, antonyms with `ant`, rhyming words with `rhyme`.
 
 ---
 
-### YouTube Video Download: v1
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/youtube-video-download.alfredworkflow)
-| [Source Repo](https://github.com/nickytonline/alfred-workflows/tree/master/workflows) 
-| 🍺️ [Nick Taylor](https://github.com/nickytonline)
-
-Download YouTube videos with just a link.
-
-Prerequisites: `youtube-dl` which you can install via [Homebrew](https://brew.sh) (`brew install youtube-dl`)
-
----
