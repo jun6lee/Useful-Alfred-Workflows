@@ -15,7 +15,7 @@ Deal with Calendars and Reminders all within Alfred.
 
 ---
 
-### Alfred Chromium Workflow: v0.2.7
+### Alfred Chromium Workflow: v0.2.9
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/alfred-chromium-workflow.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/jopemachine/alfred-chromium-workflow) 
 | 🍺️ [Gyubong](https://github.com/jopenmchine)
@@ -94,8 +94,8 @@ You can install it via [Homebrew](https://brew.sh) (`brew install php`).
 
 --- 
 
-### Google-Drive: v2022.22   
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Google%20Drive.alfredworkflow?raw=true)
+### Google-Drive: v2023.1   
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Google.Drive.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/alfredapp/google-drive-workflow) 
 | 🍺️ [Alfred](https://github.com/alfredapp)
 
@@ -127,8 +127,8 @@ Run `lc` and input a URL, or leave it blank to use your clipboard contents. Acti
 
 ---
 
-### Movie and TV Show Search: v2.13.0
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Movie.and.TV.Show.Search.alfredworkflow?raw=true)
+### Movie and TV Show Search: v2.14.0
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Movie-and-TV-Show-Search-Alfred-Workflow.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow) 
 | 🍺️ [tmcknight](https://github.com/tmcknight)
 
@@ -177,7 +177,7 @@ Through a customisable shortcut key, sends selected file item in Finder to open 
 
 ---
 
-### Package Managers v6.0.0
+### Package Managers v6.0.3
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Package.Managers.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/willfarrell/alfred-pkgman-workflow) 
 | 🍺️ [Will Farrell](https://github.com/willfarrell/)
