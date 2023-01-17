@@ -4,6 +4,11 @@
 ## Combined list of the Alfred workflows that I regularly use   
 
 
+v5 approved marked with a 5️⃣️, also available in the official [Alfred Gallery](https://alfred.app/workflows/5/)
+
+
+----
+
 ### Agenda - Reminders and Calendar Events: v1.0.1
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/agenda.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/rknightuk/alfred-workflows/tree/main/workflows/agenda) 
@@ -15,19 +20,10 @@ Deal with Calendars and Reminders all within Alfred.
 
 ---
 
-### Alfred Chromium Workflow: v0.2.7
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/alfred-chromium-workflow.alfredworkflow?raw=true)
-| [Source Repo](https://github.com/jopemachine/alfred-chromium-workflow) 
-| 🍺️ [Gyubong](https://github.com/jopenmchine)
-
-Search your browser bookmarks and history.
-
----
-
 ### Browser Tabs: v1.0.5
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Browser-Tabs.alfredworkflow?raw=true)
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/browser-tabs.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/epilande/alfred-browser-tabs) 
-| 🍺️ [Emmanuel Pilande](https://github.com/epilande)
+| 5️⃣️ [Emmanuel Pilande](https://github.com/epilande)
 
 Fetch your browser tabs from and filter based on query. Supports: Brave, Chrome, Edge, Safari.
 
@@ -53,6 +49,15 @@ Changes the case of text selected, provided, or on the clipboard to UPPERCASE, l
 
 ---
 
+### Chromium Workflow: v0.2.9
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/alfred-chromium-workflow.alfredworkflow?raw=true)
+| [Source Repo](https://github.com/jopemachine/alfred-chromium-workflow) 
+| 🍺️ [Gyubong](https://github.com/jopemachine)
+
+Search your Chrome-based browser bookmarks and history.
+
+---
+
 ### CleanApp: v1.0
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/CleanApp.alfredworkflow?raw=true)
 | 🍺️ Myself
@@ -61,24 +66,17 @@ Sends application to the freeware AppCleaner for tidy removal. The app can be in
 
 ---
 
-### Emoji Taco: v2.0.1 🌮
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Emoji_Taco-2.0.1.alfredworkflow?raw=true)
-| [Source Repo](https://github.com/jeeftor/EmojiTaco) 
-| 🍺️ [Jeeftor](https://github.com/jeeftor)
+### Find Moji: v1.0.1 
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/findmoji.alfredworkflow?raw=true)
+| [Source Repo](https://github.com/rknightuk/alfred-workflows)
+| 5️⃣️ [Robb Knight](https://github.com/rknightuk)
 
-One-Time-Setup: Type `init emoji` | Wait for completion as itscrapes Unicode.org to pull down the latest set of EMOJI!!. 
 
 Use the **e** command to search for emoji.
 
-![tac](https://github.com/jeeftor/EmojiTaco/blob/master/docs/taco.png)
-
-You can also use the `-` to exclude items from a search such as:
-
-![](https://github.com/jeeftor/EmojiTaco/blob/master/docs/complexsearch.png)
-
 ---
 
-### Github v1.8.1
+### Github: v1.8.1
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/github.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/gharlan/alfred-github-workflow) 
 | 🍺️ [Gregor Harlan](https://github.com/gharlan)
@@ -127,16 +125,24 @@ Run `lc` and input a URL, or leave it blank to use your clipboard contents. Acti
 
 ---
 
-### Movie and TV Show Search: v2.13.0
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Movie.and.TV.Show.Search.alfredworkflow?raw=true)
+### Movie and TV Show Search: v2.14.0
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Movie-and-TV-Show-Search-Alfred-Workflow.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow) 
-| 🍺️ [tmcknight](https://github.com/tmcknight)
+| 5️⃣ [tmcknight](https://github.com/tmcknight)
 
 Search for a movie or tv show and get a few ratings from IMDb, Rotten Tomatoes, Metacritic.
 Even throws direct links to Letterboxd, JustWatch, and a Trailer on YouTube if available.
 
 ![Sample](https://raw.githubusercontent.com/tmcknight/Movies-Alfred-Workflow/master/example.gif)
 
+
+---
+### Network: v1.6.0
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/network.alfredworkflow?raw=true)
+| [Source Repo](https://github.com/mrodalgaard/alfred-network-workflow)
+| 5️⃣️ [Martin Rodalgaard](https://github.com/mrodalgaard/)
+
+View current internal/external IP addresses with `wifi`
 
 ---
 
@@ -177,10 +183,10 @@ Through a customisable shortcut key, sends selected file item in Finder to open 
 
 ---
 
-### Package Managers v6.0.0
+### Package Managers v6.0.3
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Package.Managers.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/willfarrell/alfred-pkgman-workflow) 
-| 🍺️ [Will Farrell](https://github.com/willfarrell/)
+| 5️⃣️ [Will Farrell](https://github.com/willfarrell/)
 
 Browse Package Mangers such as Cocoa, HomeBrew, NPM, Python, etc for available packages.
 
@@ -193,14 +199,33 @@ Browse Package Mangers such as Cocoa, HomeBrew, NPM, Python, etc for available p
 
 Create new reminders which get added to your default reminder list in Apple Reminders. To use, just type `r <some text>` into Alfred. `r help` for options. Many other options for alternate lists, current tab, etc.
 
+
+---
+### Remove Quarantine: v2022.2  
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Remove.Quarantine.alfredworkflow?raw=true)
+| [Source Repo](https://github.com/vitorgalvao/remove-quarantine-workflow) 
+| 5️⃣️ [Vítor Galvão](https://github.com/vitorgalvao)
+
+Remove Quarantine of an installed app.
+
 ---
 
-### RightClick: v21.1
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/RightClick.alfredworkflow?raw=true)
-| [Source Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/RightClick) 
-| 🍺️ [Vítor Galvão](https://github.com/vitorgalvao)
+### RightClick: v2023.1
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Right.Click.alfredworkflow?raw=true)
+| [Source Repo](https://github.com/vitorgalvao/right-click-workflow) 
+| 5️⃣️ [Vítor Galvão](https://github.com/vitorgalvao)
 
 Press a shortcut to simulate a right click in the Finder and use the context without leaving the keyboard.
+
+---
+
+### Safari Toolkit: v1.0.3
+
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/alfred-safari-toolkit-1.0.3.alfredworkflow?raw=true)
+| [Source Repo](https://github.com/addozhang/alfred-safari-toolkit) 
+| 5️⃣️ [Addo.Zhang](https://github.com/addozhang)
+
+Search your Safari browser history.
 
 ---
 
@@ -244,7 +269,7 @@ Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2) a
 
 ### Twitter Archive Search: v1.0.1
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/twitter-archive-search.alfredworkflow?raw=true)
-| [Source Repo](https://github.com/rknightuk/alfred-workflows/tree/main/workflows/twitter-archive-search) 
+| [Source Repo](https://github.com/rknightuk/alfred-workflows) 
 | 🍺️ [Robb Knight](https://github.com/rknightuk)
 
 - Request your Twitter here: https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive
