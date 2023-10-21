@@ -6,18 +6,6 @@
 
 v5 approved marked with a 5️⃣️, also available in the official [Alfred Gallery](https://alfred.app/workflows/5/)
 
-
-----
-
-### Agenda - Reminders and Calendar Events: v1.0.1
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/agenda.alfredworkflow?raw=true)
-| [Source Repo](https://github.com/rknightuk/alfred-workflows/tree/main/workflows/agenda) 
-| 🍺️ [Robb Knight](https://github.com/rknightuk)
-
-Deal with Calendars and Reminders all within Alfred.
-
-![Screenshot](https://github.com/rknightuk/alfred-workflows/blob/main/workflows/agenda/src/screenshot.png)
-
 ---
 
 ### Browser Tabs: v1.0.5
@@ -29,11 +17,11 @@ Fetch your browser tabs from and filter based on query. Supports: Brave, Chrome,
 
 ---
 
-### Calculate Anything: v3.5.0
+### Calculate Anything: v4.0.5
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Calculate.Anything.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/biati-digital/alfred-calculate-anything) 
-| 🍺️ [biati digital](https://github.com/biati-digital)
-
+| 5️⃣️ [biati digital](https://github.com/biati-digital)
+| [Alfred Gallery Link](https://alfred.app/workflows/biatidigital/calculate-anything/)
 ![Sample](https://camo.githubusercontent.com/4a8ddd6eb44304760d8b8ced635d65523120b0752b125af6f3707786efb77486/68747470733a2f2f692e6962622e636f2f4c5a6e5163434c2f63616c63756c6174652d616e797468696e672d67682e6a7067)
 
 ---
@@ -46,15 +34,6 @@ Fetch your browser tabs from and filter based on query. Supports: Brave, Chrome,
 Changes the case of text selected, provided, or on the clipboard to UPPERCASE, lowercase, Title Case, CamelCase, kebab-case, or snake_case.
 
 ![Screenshot](https://github.com/gillibrand/alfred-change-case/blob/master/changecase.jpg)
-
----
-
-### Chromium Workflow: v0.2.9
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/alfred-chromium-workflow.alfredworkflow?raw=true)
-| [Source Repo](https://github.com/jopemachine/alfred-chromium-workflow) 
-| 🍺️ [Gyubong](https://github.com/jopemachine)
-
-Search your Chrome-based browser bookmarks and history.
 
 ---
 
@@ -92,10 +71,11 @@ You can install it via [Homebrew](https://brew.sh) (`brew install php`).
 
 --- 
 
-### Google-Drive: v2023.1   
+### Google-Drive: v2023.8   
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Google.Drive.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/alfredapp/google-drive-workflow) 
-| 🍺️ [Alfred](https://github.com/alfredapp)
+| 5️⃣️ [Alfred](https://github.com/alfredapp)
+| [Alfred Gallery Link](https://alfred.app/workflows/alfredapp/google-drive)
 
 Navigate your Google Drive.
 
@@ -114,9 +94,9 @@ Easily find and kill misbehaving processes.
 
 ### LinkClean: v22.2
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/LinkClean.alfredworkflow?raw=true)
-| [Source Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/LinkClean) 
-| 🍺️ [Vítor Galvão](https://github.com/vitorgalvao)
-
+| [Source Repo](https://github.com/vitorgalvao/link-clean-workflow/) 
+| 5️⃣️ [Vítor Galvão](https://github.com/vitorgalvao)
+| [Alfred Gallery Link](https://alfred.app/workflows/vitor/link-clean) // v2023.1
 Clean clutter from URLs such as all sorts of [`utm_` variants](http://www.bytefive.com/blogs/understanding-utm_source-utm_medium-and-utm_campaign) and subdomains like `m.` for mobile sites.
 
 Run `lc` and input a URL, or leave it blank to use your clipboard contents. Action it and a clean link will be copied to your clipboard and pasted to your frontmost app. If given a shotened URL, redirects will be followed before cleaning.
@@ -125,7 +105,7 @@ Run `lc` and input a URL, or leave it blank to use your clipboard contents. Acti
 
 ---
 
-### Movie and TV Show Search: v2.14.0
+### Movie and TV Show Search: v2.17.0
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Movie-and-TV-Show-Search-Alfred-Workflow.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow) 
 |  5️⃣ [tmcknight](https://github.com/tmcknight)
@@ -137,41 +117,12 @@ Even throws direct links to Letterboxd, JustWatch, and a Trailer on YouTube if a
 
 
 ---
-### Network: v1.6.0
+### Network: v1.7.0
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/network.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/mrodalgaard/alfred-network-workflow)
 |  5️⃣️ [Martin Rodalgaard](https://github.com/mrodalgaard/)
 
 View current internal/external IP addresses with `wifi`
-
----
-
-### OneUpdater: v22.1
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/OneUpdater.alfredworkflow?raw=true)
-| [Source Repo](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) 
-| 🍺️ [Vítor Galvão](https://github.com/vitorgalvao)
-
-As the name suggests, this is OneUpdate to rule them all. An auto-update patch you can put into (almost) all of your Alfred workflows. With minimal set-up, it allows you to let each workflow update itself from source to the latest version automagically. Clear instruction on setup at the repo linked above.
-
-![Setting up OneUpdater with Run Script](https://i.imgur.com/87AqLvI.gif)
-
-The top lines must be set, and the rest of the code should be left untouched.
-
-* `remote_info_plist` is the URL to the workflow’s up-to-date `info.plist` on a server.
-* `workflow_url` and `download_type` work in tandem. `download_type` must be one of `direct`, `page`, or `github_release`.
-  * When `direct`, `workflow_url` must be a direct link to a Workflow file.
-  * When `page`, `workflow_url` must be a link to a download page.
-  * When `github_release`, `workflow_url` must be of the form `username/repo`.
-* `frequency_check` is the number of day between update checks. Set it to `0` when testing, so it fires on every use.
-
-Example:
-
-```
-readonly remote_info_plist='https://raw.githubusercontent.com/vitorgalvao/alfred-workflows/master/ShortFilms/source/info.plist' 
-readonly workflow_url='https://raw.githubusercontent.com/vitorgalvao/alfred-workflows/master/ShortFilms/ShortFilms.alfredworkflow'
-readonly download_type='direct'
-readonly frequency_check='4'
-```
 
 ---
 
@@ -183,7 +134,7 @@ Through a customisable shortcut key, sends selected file item in Finder to open 
 
 ---
 
-### Package Managers v6.0.3
+### Package Managers v6.0.4
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Package.Managers.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/willfarrell/alfred-pkgman-workflow) 
 |  5️⃣️ [Will Farrell](https://github.com/willfarrell/)
@@ -205,7 +156,7 @@ Create new reminders which get added to your default reminder list in Apple Remi
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Remove.Quarantine.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/vitorgalvao/remove-quarantine-workflow) 
 |  5️⃣️ [Vítor Galvão](https://github.com/vitorgalvao)
-
+| [Alfred Gallery Link](https://alfred.app/workflows/vitor/remove-quarantine) // v2023.3
 Remove Quarantine of an installed app.
 
 ---
@@ -214,6 +165,7 @@ Remove Quarantine of an installed app.
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Right.Click.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/vitorgalvao/right-click-workflow) 
 |  5️⃣️ [Vítor Galvão](https://github.com/vitorgalvao)
+| [Alfred Gallery Link](https://alfred.app/workflows/vitor/right-click) 
 
 Press a shortcut to simulate a right click in the Finder and use the context without leaving the keyboard.
 
@@ -256,7 +208,7 @@ Search/create your iCloud based iOS/MacOS Notes with:
 
 ---
 
-### Terminal-Finder v1
+### Terminal-Finder v1.1.0
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/TerminalFinder.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/LeEnno/alfred-terminalfinder) 
 | 🍺️ [Enrico Herrmann](https://github.com/LeEnno)
