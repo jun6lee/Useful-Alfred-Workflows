@@ -17,23 +17,13 @@ Fetch your browser tabs from and filter based on query. Supports: Brave, Chrome,
 
 ---
 
-### Calculate Anything: v4.0.5
+### Calculate Anything: v4.0.7
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Calculate.Anything.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/biati-digital/alfred-calculate-anything) 
 | 5️⃣️ [biati digital](https://github.com/biati-digital)
 | [Alfred Gallery Link](https://alfred.app/workflows/biatidigital/calculate-anything/)
-![Sample](https://camo.githubusercontent.com/4a8ddd6eb44304760d8b8ced635d65523120b0752b125af6f3707786efb77486/68747470733a2f2f692e6962622e636f2f4c5a6e5163434c2f63616c63756c6174652d616e797468696e672d67682e6a7067)
 
----
-
-### Change Case: v1.5.1
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Change.Case.alfredworkflow?raw=true)
-| [Source Repo](https://github.com/gillibrand/alfred-change-case) 
-| 🍺️ [Jay Gillibrand](https://github.com/gillibrand)
-
-Changes the case of text selected, provided, or on the clipboard to UPPERCASE, lowercase, Title Case, CamelCase, kebab-case, or snake_case.
-
-![Screenshot](https://github.com/gillibrand/alfred-change-case/blob/master/changecase.jpg)
+Calculate anything with natural language
 
 ---
 
@@ -45,17 +35,17 @@ Sends application to the freeware AppCleaner for tidy removal. The app can be in
 
 ---
 
-### Find Moji: v1.0.1 
+### Find Moji: v1.0.2 
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/findmoji.alfredworkflow?raw=true)
-| [Source Repo](https://github.com/rknightuk/alfred-workflows)
-|  5️⃣️ [Robb Knight](https://github.com/rknightuk)
+| [Source Repo](https://github.com/rknightuk/alfred-workflows/tree/main/workflows/findmoji)
+|  5️⃣️ [Robb Knight](https://github.com/rknightuk) | [Alfred Gallery Link](https://alfred.app/workflows/rknightuk/findmoji/)
 
 
-Use the **e** command to search for emoji.
+Use the **emoji** command to search for emoji.
 
 ---
 
-### Github: v1.8.1
+### Github: v1.9
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/github.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/gharlan/alfred-github-workflow) 
 | 🍺️ [Gregor Harlan](https://github.com/gharlan)
@@ -73,7 +63,7 @@ You can install it via [Homebrew](https://brew.sh) (`brew install php`).
 
 ### Google-Drive: v2023.8   
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Google.Drive.alfredworkflow?raw=true)
-| [Source Repo](https://github.com/alfredapp/google-drive-workflow) 
+| [Source Repo](https://github.com/alfredapp/google-drive-workflow/) 
 | 5️⃣️ [Alfred](https://github.com/alfredapp)
 | [Alfred Gallery Link](https://alfred.app/workflows/alfredapp/google-drive)
 
@@ -92,11 +82,12 @@ Easily find and kill misbehaving processes.
 
 ---
 
-### LinkClean: v22.2
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/LinkClean.alfredworkflow?raw=true)
+### LinkClean: v2023.1
+| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Link.Clean.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/vitorgalvao/link-clean-workflow/) 
 | 5️⃣️ [Vítor Galvão](https://github.com/vitorgalvao)
-| [Alfred Gallery Link](https://alfred.app/workflows/vitor/link-clean) // v2023.1
+| [Alfred Gallery Link](https://alfred.app/workflows/vitor/link-clean) 
+
 Clean clutter from URLs such as all sorts of [`utm_` variants](http://www.bytefive.com/blogs/understanding-utm_source-utm_medium-and-utm_campaign) and subdomains like `m.` for mobile sites.
 
 Run `lc` and input a URL, or leave it blank to use your clipboard contents. Action it and a clean link will be copied to your clipboard and pasted to your frontmost app. If given a shotened URL, redirects will be followed before cleaning.
@@ -105,10 +96,10 @@ Run `lc` and input a URL, or leave it blank to use your clipboard contents. Acti
 
 ---
 
-### Movie and TV Show Search: v2.17.0
+### Movie and TV Show Search: v2.20.0
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Movie-and-TV-Show-Search-Alfred-Workflow.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow) 
-|  5️⃣ [tmcknight](https://github.com/tmcknight)
+|  5️⃣ [tmcknight](https://github.com/tmcknight) | [Alfred Gallery Link](https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/)
 
 Search for a movie or tv show and get a few ratings from IMDb, Rotten Tomatoes, Metacritic.
 Even throws direct links to Letterboxd, JustWatch, and a Trailer on YouTube if available.
@@ -120,7 +111,7 @@ Even throws direct links to Letterboxd, JustWatch, and a Trailer on YouTube if a
 ### Network: v1.7.0
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/network.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/mrodalgaard/alfred-network-workflow)
-|  5️⃣️ [Martin Rodalgaard](https://github.com/mrodalgaard/)
+|  5️⃣️ [Martin Rodalgaard](https://github.com/mrodalgaard/) | [Alfred Gallery Link](https://alfred.app/workflows/mrodalgaard/network/)
 
 View current internal/external IP addresses with `wifi`
 
@@ -142,21 +133,12 @@ Through a customisable shortcut key, sends selected file item in Finder to open 
 Browse Package Mangers such as Cocoa, HomeBrew, NPM, Python, etc for available packages.
 
 ---
-
-### Reminders: v75  
-| [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Reminders%20for%20Alfred.alfredworkflow?raw=true)
-| [Source Repo](https://github.com/surrealroad/alfred-reminders) 
-| 🍺️ [surrealroad](https://github.com/surrealroad/)
-
-Create new reminders which get added to your default reminder list in Apple Reminders. To use, just type `r <some text>` into Alfred. `r help` for options. Many other options for alternate lists, current tab, etc.
-
-
----
-### Remove Quarantine: v2022.2  
+### Remove Quarantine: v2023.3 
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Remove.Quarantine.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/vitorgalvao/remove-quarantine-workflow) 
 |  5️⃣️ [Vítor Galvão](https://github.com/vitorgalvao)
-| [Alfred Gallery Link](https://alfred.app/workflows/vitor/remove-quarantine) // v2023.3
+| [Alfred Gallery Link](https://alfred.app/workflows/vitor/remove-quarantine) 
+
 Remove Quarantine of an installed app.
 
 ---
@@ -190,7 +172,7 @@ Make your computer say `whatever` out loud!
 
 ---
 
-### Search Notes v3.5.2
+### Search Notes v3.6.2
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Search.Notes.alfredworkflow?raw=true)
 | [Source Repo](https://github.com/sballin/alfred-search-notes-app) 
 | 🍺️ [Sean Ballinger](https://github.com/sballin)
@@ -215,7 +197,7 @@ Search/create your iCloud based iOS/MacOS Notes with:
 
 Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2) and vice versa.
 
-![Screenshot](https://camo.githubusercontent.com/14159afc328e47d5ccd8064eed087ebb59fff699337c0fd8fd98744d9b2fe8fc/68747470733a2f2f7261772e6769746875622e636f6d2f4c65456e6e6f2f616c667265642d7465726d696e616c66696e6465722f6d61737465722f73637265656e73686f745f66742e706e67)
+![Screenshot](https://camo.githubusercontent.com/b9014ff3a73646532e610882fb54230ac571eaab2ff9970b7f95cbdbd0e7b1bf/68747470733a2f2f7261772e6769746875622e636f6d2f4c65456e6e6f2f616c667265642d7465726d696e616c66696e6465722f6d61737465722f73637265656e73686f745f66742e706e67)
 
 ---
 
@@ -232,7 +214,7 @@ Example, `/Users/me/Dropbox/Archive/data/tweet.js`
 
 ---
 
-### Word-Search: v2.0.1
+### Word-Search: v2.0.2
 | [Download Workflow](https://github.com/jun6lee/Useful-Alfred-Workflows/blob/main/Word.Search.alfredworkflow)
 | [Source Repo](https://github.com/jun6lee/Alfred-WordSearch) 
 | 🍺️ [Isaac Pohl-Zaretsky](https://github.com/isaacpz) | Ported for Python3 Compatability by Myself
